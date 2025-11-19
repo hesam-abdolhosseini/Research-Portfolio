@@ -1,5 +1,5 @@
 clc;
-clear;
+clearvars -except srcFolder;
 close all;
 
 %% Problem Definition
@@ -30,8 +30,8 @@ nObj = numel(CostFunction(randsample(nVar,nVar)));      % Number of Objective Fu
 
 %% NSGA-II Parameters
 
-MaxIt = 1000;                        % maximum number of iterations
-nPop = 30;                          % Population size
+MaxIt = 150;                        % maximum number of iterations
+nPop = 20;                          % Population size
 
 pc = 0.8;                           % crossover percentage
 nc = 2*round(pc*nPop/2);            % number of offsprings
@@ -148,5 +148,3 @@ for it=1:MaxIt
     PlotCosts(F1);
 
 end
-
-%% Rwsults

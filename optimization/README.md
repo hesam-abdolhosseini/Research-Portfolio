@@ -11,6 +11,9 @@ Demonstrate multi-objective optimization for reliability and latency trade-offs 
 ## Results
 - Pareto front curves showing latency vs reliability.
 - Insights into how buffer sizing impacts resilience and throughput.
+- The final Pareto front figure is saved automatically in optimization/docs/figures/pareto_front.png.
+
+![Pareto Front](docs/figures/pareto_front.png)
 
 ## Quickstart
 ```matlab

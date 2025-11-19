@@ -15,7 +15,11 @@ addpath(genpath(srcFolder));
 % Call your existing Main.m (entry point of your optimization code)
 Main;
 
-% Optional: clean up path afterwards (so helpers aren’t globally exposed)
+% --- Save the final figure once ---
+figFolder = fullfile(fileparts(mfilename('fullpath')), '../docs/figures');
+saveas(gcf, fullfile(figFolder, 'pareto_front.png'));
+
+% Clean up path afterwards
 rmpath(genpath(srcFolder));
 
-disp('Demo finished.');
+disp('Optimization complete. Final figure saved to docs/figures.');
