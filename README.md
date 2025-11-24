@@ -1,14 +1,13 @@
 # Research-Portfolio
 
-Portfolio highlighting research in optimization, embedded machine learning, and secure systems.  
+Portfolio highlighting research in optimization, machine learning, and secure systems.  
 Emphasis on reproducibility, efficiency, and practical prototypes for resource-constrained environments.
 
 ---
 
 ## 📂 Structure
 - **optimization/** → Multi-objective trade-offs in latency, reliability, and buffer constraints  
-- **embedded-ml/** → Quantization, fixed-point preprocessing, and edge deployment stubs  
-- **teaching-refs/** → Bilingual, reproducible materials linked to course labs  
+- **ml/** → Step-by-step machine learning projects (IBM ML0101EN aligned), with bilingual notes and figures  
 - **docs/** → Figures, portfolio overview, and shared diagrams  
 
 ---
