@@ -43,6 +43,8 @@ sudo apt install jupyter-notebook -y
 jupyter-notebook --version
 ```
 
+---
+
 ## Running Jupyter Notebook
 
 After installation, run Jupyter Notebook with your Python version.
@@ -55,8 +57,13 @@ Tip: Check your Python version with:
 python3 --version
 ```
 
+---
+
 ### Notes
 - Method 1 (pip + virtual environment) is cleaner and avoids conflicts.
 - Method 2 (APT) is simpler but may install older versions.
 - Always verify your Python version before running Jupyter.
-یادداشت: این راهنما برای آموزش و بازتولید طراحی شده است. روش اول (pip) توصیه می‌شود زیرا محیط مجازی تمیزتر و قابل کنترل‌تر است.
+
+### یادداشت:
+- این راهنما برای آموزش و بازتولید طراحی شده است.
+- روش اول توصیه می‌شود زیرا محیط مجازی تمیزتر و قابل کنترل‌تر است.
