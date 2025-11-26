@@ -5,10 +5,10 @@ Each guide provides step-by-step instructions, prerequisites, and notes for clas
 
 ## Available Guides
 
-- [Install Jupyter Notebook on Ubuntu 24.04](install-jupyter-ubuntu24/README.md)  
+- [Install Jupyter Notebook on Ubuntu 24.04](install-jupyter-notebook/install-jupyter-ubuntu24/README.md)  
   Covers installation using **pip** (virtual environment) and **APT** package manager.
 
-- [Install Jupyter Notebook on Windows](install-jupyter-windows/README.md)  
+- [Install Jupyter Notebook on Windows](install-jupyter-notebook/install-jupyter-windows/README.md)  
   Covers installation using **Anaconda** and **Microsoft Store**.
 
 ---
