@@ -8,3 +8,8 @@ It is designed for reproducibility and classroom use.
 - Method 1: Install via pip in a virtual environment
 - Method 2: Install via APT
 - Running Jupyter Notebook
+
+For detailed step-by-step instructions, see:  
+[Install_Jupyter_Ubuntu24.md](Install_Jupyter_Ubuntu24.md)
+
+> راهنمای کامل و مرحله‌به‌مرحله در فایل بالا موجود است.
