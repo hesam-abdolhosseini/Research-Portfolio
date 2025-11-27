@@ -65,10 +65,6 @@ This ensures your ML code runs correctly and smoothly with isolated dependencies
 ## Notes
 - **Virtual environment method** is recommended for reproducibility and avoiding conflicts.  
 - **System-wide installation** is simpler but may affect other Python projects.  
-- Always verify your Python version with:
-  ```bash
-  python3 --version
-  ```
 
 ---
 

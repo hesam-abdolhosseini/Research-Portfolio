@@ -1,13 +1,14 @@
-# [Module Name]
+# Introduction to Machine Learning
 
-This folder is reserved for future content related to **[Module Name]**.  
-It will include reproducible projects, datasets (if needed), and bilingual documentation aligned with the IBM ML0101EN syllabus.
+This module introduces the fundamentals of machine learning, aligned with the IBM ML0101EN course.  
+It provides bilingual notes, examples, and references to core Python libraries used in ML projects.
 
-## Status
-🚧 Work in progress — content will be added in upcoming updates.
+## Contents
+- What is machine learning? (definition, examples, applications)
+- Supervised vs. unsupervised learning
+- Core Python libraries (NumPy, Pandas, scikit‑learn, Matplotlib, SciPy)
 
-## Planned Contents
-- README with objectives and methods  
-- Small datasets for reproducibility  
-- Concise notebooks/scripts  
-- Bilingual notes (English + Persian) for accessibility
+For detailed bilingual notes, see:  
+[notes.md](notes.md)
+
+> راهنمای کامل و دو‌زبانه در فایل بالا موجود است.
