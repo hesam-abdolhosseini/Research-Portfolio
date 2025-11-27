@@ -1,11 +1,8 @@
 
-```markdown
 # Install Jupyter Notebook on Ubuntu 24.04
 
 This guide explains how to install and run Jupyter Notebook on Ubuntu 24.04 using either a **virtual environment** (recommended) or system-wide installation.  
 The virtual environment approach keeps dependencies isolated and avoids conflicts.
-
----
 
 ## Option 1: Using a Virtual Environment (recommended)
 
