@@ -8,6 +8,7 @@ Emphasis on reproducibility, efficiency, and practical prototypes for resource-c
 ## 📂 Structure
 - **optimization/** → Multi-objective trade-offs in latency, reliability, and buffer constraints  
 - **ml/** → Step-by-step machine learning projects (IBM ML0101EN aligned), with bilingual notes and figures  
+- **Cybersecurity_Fundamentals/** → Consolidated notes from ISC2 CC and CompTIA Security+
 - **teaching-guides/** → Bilingual guides (currently: Jupyter Notebook on Ubuntu 24.04 and Windows) 
 
 ---

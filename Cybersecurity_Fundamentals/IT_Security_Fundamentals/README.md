@@ -15,7 +15,7 @@ It is designed as a **study guide for certification candidates** and a **teachin
 ## 1. Foundations of Security
 
 ### Information Security vs IT Security vs Cybersecurity
-<img src="../images/info_vs_it_vs_cybersecurity.png" alt="InfoSec vs IT Security vs Cybersecurity" width="450"/>
+<img src="../images/info_vs_it_vs_cybersecurity.png" alt="InfoSec vs IT Security vs Cybersecurity" width="300"/>
 
 - **Information Security (InfoSec)**: Protects all forms of information — paper, voice, digital, human knowledge.  
 - **IT Security**: Focuses on hardware, software, networks, and data being processed, stored, or communicated.  
