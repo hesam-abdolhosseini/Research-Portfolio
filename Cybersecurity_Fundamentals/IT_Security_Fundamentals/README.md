@@ -71,8 +71,6 @@ The **DAD Triad** represents threats that undermine CIA principles:
 
 Data exists in three states, each requiring protection:
 
-<img src="../images/data_states.png" alt="Three States of Data" width="450"/>
-
 - **Data at Rest**: Stored on disk/tape → must be encrypted.  
 - **Data in Motion**: Transmitted across networks → use end-to-end encryption (TLS, IPSec).  
 - **Data in Use**: Actively processed → protect via policies (clean desk, screen locks, shoulder surfing prevention).  
