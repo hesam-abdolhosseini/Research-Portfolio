@@ -31,4 +31,4 @@ The folder is divided into subfolders, each covering a major concept:
 ---
 
 ## Author
-Created and maintained by **Hesam Abdolhosseini**  
+Created and maintained by **Hesam Abdolhosseini**

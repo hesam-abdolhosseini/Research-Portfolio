@@ -17,9 +17,9 @@ It is designed as a **study guide for certification candidates** and a **teachin
 ### Information Security vs IT Security vs Cybersecurity
 <img src="../images/info_vs_it_vs_cybersecurity.png" alt="InfoSec vs IT Security vs Cybersecurity" width="300"/>
 
-- **Information Security (InfoSec)**: Protects all forms of information — paper, voice, digital, human knowledge.  
+- **Information Security (InfoSec)**: Protects all forms of information e.g. paper, voice, digital, and human knowledge.
 - **IT Security**: Focuses on hardware, software, networks, and data being processed, stored, or communicated.  
-- **Cybersecurity**: Subset of IT Security — specifically protecting systems and data accessible via the internet.  
+- **Cybersecurity**: Subset of IT Security, i.e. protecting systems and data accessible via the internet.
 
 **Key takeaway**: Cybersecurity ⊂ IT Security ⊂ Information Security.
 
@@ -38,7 +38,7 @@ The **CIA Triad** is the cornerstone of security:
 
 - **Integrity**  
   - Ensures data remains accurate, consistent, and trustworthy.  
-  - Techniques: Hash functions (SHA2), checksums, digital signatures, access controls.  
+  - Techniques: Hash functions (SHA‑256), checksums, digital signatures, access controls.  
   - Example: Detecting unauthorized changes in a file via hash mismatch.  
   - Case Study: *Stuxnet worm* altered centrifuge operations by subtly changing data integrity.  
 
@@ -71,11 +71,16 @@ The **DAD Triad** represents threats that undermine CIA principles:
 
 Data exists in three states, each requiring protection:
 
-<img src="../images/data_states.png" alt="Three States of Data" width="750"/>
+<img src="../images/data_states.png" alt="Three States of Data" width="450"/>
 
 - **Data at Rest**: Stored on disk/tape → must be encrypted.  
 - **Data in Motion**: Transmitted across networks → use end-to-end encryption (TLS, IPSec).  
 - **Data in Use**: Actively processed → protect via policies (clean desk, screen locks, shoulder surfing prevention).  
+
+---
+
+## 📊 Quiz
+Challenge yourself: [IT Security Fundamentals Quiz](../quiz/quiz1.md)
 
 ---
 
