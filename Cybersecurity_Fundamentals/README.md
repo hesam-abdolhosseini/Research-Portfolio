@@ -1,6 +1,6 @@
 # Cybersecurity Fundamentals
 
-This repository section contains structured learning resources from **LSC2 CC** and **CompTIA Security+** courses.  
+This repository section contains structured learning resources from **ISC2 CC** and **CompTIA Security+** courses.  
 It is designed to serve as both a **study guide for certification candidates** and a **teaching resource**.
 
 ---
@@ -13,8 +13,8 @@ It is designed to serve as both a **study guide for certification candidates** a
 ## Structure
 The folder is divided into subfolders, each covering a major concept:
 
-- `IT_Security_Fundamentals` → CIA_Triad, Access_Control, Risk_Management, Advanced_Concepts  
-
+- [`IT_Security_Fundamentals`](01-IT_Security_Fundamentals/README.md) → CIA_Triad, Access_Control, Risk_Management, Advanced_Concepts  
+- [`quiz`](quiz/README.md) → Challenge your knowledge of the concepts with interactive questions
 
 ---
 
