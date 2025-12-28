@@ -23,9 +23,11 @@ Predicting CO₂ emissions using **engine size**, **number of cylinders**, and *
 
 This folder includes:
 
+- `FuelConsumptionCo2.csv` → dataset of vehicle fuel consumption and CO₂ emissions  
 - `LAB_Multiple_Linear_Regression.ipynb`
 - `LAB_Multiple_Linear_Regression.pdf` 
-- `FuelConsumptionCo2.csv` → dataset used for the lab  
+- `LAB_Multiple_Linear_Regression_with_output.ipynb`
+- `LAB_Multiple_Linear_Regression_with_output.pdf` 
 - `README.md` (this file)
 
 ---
@@ -42,22 +44,22 @@ This folder includes:
 
 The model predicts:
 
-\[
+$$
 \hat{y} = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \dots + \theta_n x_n
-\]
+$$
 
 Or in vector form:
 
-\[
+$$
 \hat{y} = \theta^T x
-\]
+$$
 
 Where:
 
-- \( \theta \) = parameter (weight) vector  
-- \( x \) = feature vector  
-- \( \theta_0 \) = intercept  
-- \( \theta_1, \theta_2, ... \) = effect of each feature  
+- $\theta$ = parameter (weight) vector  
+- $x$ = feature vector  
+- $\theta_0$ = intercept  
+- $\theta_1, \theta_2, ...$ = effect of each feature
 
 ### Geometry
 
@@ -93,7 +95,7 @@ Common metrics:
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 - Adding too many features may cause **overfitting**  
 - Categorical variables must be converted to numeric (e.g., one‑hot encoding)  
@@ -115,9 +117,9 @@ Common metrics:
 
 مدل به صورت زیر تعریف می‌شود:
 
-\[
+$$
 \hat{y} = \theta_0 + \theta_1 x_1 + \theta_2 x_2 + \dots + \theta_n x_n
-\]
+$$
 
 و هدف، **کمینه کردن خطا** (MSE) و یافتن بهترین ضرایب است.
 

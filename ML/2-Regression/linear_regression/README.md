@@ -14,20 +14,22 @@ Simple Linear Regression models the relationship between:
 
 The goal is to fit a **straight line** that best represents the relationship between the two variables.
 
-### **Model Form**
+### Model Form
 
-\[
+The model predicts:
+
+$$
 \hat{y} = \theta_0 + \theta_1 x_1
-\]
+$$
 
 Where:
 
-- \( \hat{y} \) → predicted value  
-- \( x_1 \) → independent variable  
-- \( \theta_0 \) → intercept  
-- \( \theta_1 \) → slope (effect of the feature)  
+- $\hat{y}$ → predicted value  
+- $x_1$ → independent variable  
+- $\theta_0$ → intercept  
+- $\theta_1$ → slope (effect of the feature)
 
-The model finds the best values for \( \theta_0 \) and \( \theta_1 \) by minimizing the **Mean Squared Error (MSE)** between actual and predicted values.
+The model finds the best values for $\theta_0$ and $\theta_1$ by minimizing the **Mean Squared Error (MSE)** between actual and predicted values.
 
 This lab walks you through:
 

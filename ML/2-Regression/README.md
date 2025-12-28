@@ -14,6 +14,9 @@ This module introduces both **simple** and **multiple** linear regression, along
 
 ### 1. [linear_regression](linear_regression/)
 ### 2. [multiple_linear_regression](multiple_linear_regression/)
+.
+.
+.
 
 ### **Future subfolders**
 - Non‑linear Regression  
